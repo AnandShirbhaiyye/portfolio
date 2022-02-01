@@ -1,0 +1,65 @@
+.user-img{
+    border-radius: 50%;
+    margin-top: 20px;    
+}
+.user-img:hover{
+    transition: 0.3s;
+    box-shadow: 5px 5px 5pxblack;
+}
+.about-me{
+    font-size: 20px;
+}
+.user-img{
+    height: 300px;
+    border-radius: 50%;
+}
+.Skill-heading{
+    font-size: 25px;
+}
+.icon-size{
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+    background-color: white;
+    display: block;
+    border-radius: 50%;
+    box-shadow: 0px 0px 10px rgb(49, 47, 47);
+}
+.icon-size-container{
+    height: 50px;
+    width: 50px;
+
+}
+.project-container{
+    box-shadow: 2px 2px 6px black;
+    border-radius: 30px;
+    padding: 15px;
+    margin-top: 100px;
+    border: 1px dotted black;
+    transition: 0.2s;
+}
+.project-container:hover{
+    transition: 0.8s;
+    box-shadow: 6px 6px 20px black;
+}
+.main-footer{
+    color:#ffffff;
+    background-color: #1f2831;
+    position:relative;
+    bottom: 0;
+    width:100%;
+    padding-top : 3em;
+    
+}
+.link-deco{
+    text-decoration: none;
+    color: beige;
+
+}
+.showresume:hover{
+    transition: 0.5s;
+    box-shadow: 3px 3px 7px rgb(143, 143, 233);
+}
+.hyper{
+    height: 30px;
+}
